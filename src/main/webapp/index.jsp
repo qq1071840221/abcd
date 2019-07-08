@@ -9,7 +9,7 @@
 </head>
 <body>
 Login
-${error}
+${error} 
 <FORM METHOD=POST ACTION="login">
 uname	<INPUT TYPE="text" NAME="uname"><br>
 upass	<INPUT TYPE="text" NAME="upass" ><br>
