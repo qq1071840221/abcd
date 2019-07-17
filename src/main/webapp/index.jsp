@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Login
+Login88
 ${error} 
 <FORM METHOD=POST ACTION="login">
 uname	<INPUT TYPE="text" NAME="uname"><br>
